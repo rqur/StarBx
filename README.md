@@ -4,6 +4,12 @@
 
 
 
+
+
+
+
+
+
 StarBx Clone Website
 This is a README file for the StarBx Clone Website, a project developed by me. In this document, you will find information about the project, its purpose, features, and how it was created.
 
